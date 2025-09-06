@@ -56,8 +56,7 @@
 <section id="home" class="container mx-auto py-16 px-4 text-center">
   <div class="flex flex-col items-center">
     <!-- Profile Photo -->
-    <img src="folder/myprofilr/profile.jpg.jpg" alt="Profile Photo" ... />" alt="Profile Photo"
-         class="w-40 h-40 rounded-full border-4 border-indigo-600 shadow-lg mb-6 object-cover" />
+    
 
     <h2 class="text-4xl md:text-6xl font-extrabold">Cybersecurity Analyst and physician</h2>
     <p class="mt-4 text-lg text-gray-600 dark:text-gray-300 max-w-2xl mx-auto">
